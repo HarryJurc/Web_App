@@ -4,4 +4,6 @@ __pycache__/
 *.pyc
 .env/
 /.env
-!htmlcov/index.html
+*.sqlite
+*.sqlite3
+*.db
